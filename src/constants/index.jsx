@@ -129,34 +129,34 @@ export const pricingOptions = [
   {
     title: "Basic",
     price: "R2000",
-    monthly: "/ 3 Months",
+    monthly: "/ once-off",
     features: [
       "Responsive Website Design",
       "Basic SEO Optimization",
-      "3 Months Hosting",
+      "1 Month Hosting single page",
       "Standard Support"
     ]
   },
   {
     title: "Professional",
-    price: "R5000",
-    monthly: "/ 4 Months",
+    price: "R3000",
+    monthly: "/ once-off",
     features: [
       "Custom Web Development",
       "Advanced SEO & Analytics",
-      "3 Months Hosting",
+      "2 Months Hosting single page",
       "Priority Support",
       "Content Management System"
     ]
   },
   {
     title: "Enterprise",
-    price: "R12000",
-    monthly: "/ 4 Months",
+    price: "R5000",
+    monthly: "/ once-off",
     features: [
       "Full-Scale Web Application",
       "Comprehensive SEO & Digital Marketing",
-      "3 Months Hosting",
+      "3 Months Hosting single page",
       "24/7 Support",
       "Advanced Analytics & Reporting",
       "Custom Integrations"
@@ -168,7 +168,7 @@ export const pricingOptions = [
 
 //footer
 export const resourcesLinks = [
-  // { href: "/blog", text: "Blog" },
+  {  text: "Transform your business and bring your web ideas to life with our expert web development services. Our team combines intuitive tools, innovative solutions, and strategic SEO to ensure your website and web apps look stunning and perform flawlessly. Start today and turn your vision into digital success!" },
 ];
 
 
