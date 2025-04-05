@@ -38,7 +38,7 @@ const Navbar = () => {
               Sign In
             </a> */}
             <a
-              href="#"
+              href="https://forms.gle/8ye8t3sikFgDTSZi9"
               className="bg-gradient-to-r from-orange-500 to-orange-800 py-2 px-3 rounded-md"
             >
               Get Quote
@@ -72,7 +72,7 @@ const Navbar = () => {
                 Sign In
               </a> */}
               <a
-                href="#"
+                href="https://forms.gle/8ye8t3sikFgDTSZi9"
                 className="py-2 px-3 rounded-md bg-gradient-to-r from-orange-500 to-orange-800"
               >
                 Get Quote
